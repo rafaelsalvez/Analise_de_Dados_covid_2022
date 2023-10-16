@@ -2,6 +2,8 @@
 
 Este projeto analisa dados da COVID-19 referentes ao ano de 2022. O objetivo é fornecer insights e visualizações relacionadas à propagação da doença, mortalidade e outras tendências associadas ao vírus no ano de 2022.
 
+Link do relatório gerado no Google Data Studio: (https://lookerstudio.google.com/reporting/e4c8fa4d-7745-40a1-9cc3-6a6c53c515a8)
+
 ## Conjunto de Dados
 
 Os dados utilizados neste projeto são provenientes de fontes confiáveis, como a Organização Mundial da Saúde (OMS) ou outras instituições de saúde pública. O conjunto de dados inclui informações sobre casos confirmados, recuperados, óbitos, e outras métricas relevantes em relação à COVID-19 durante o ano de 2022.
